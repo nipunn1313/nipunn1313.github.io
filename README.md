@@ -7,6 +7,7 @@ I got my BS and MS in Electrical and Computer Engineering at Carnegie Mellon Uni
 Pittsburgh (2008 - 2013). I moved to San Francisco in 2013 for work and have enjoyed it
 ever since. I've lived in short stints in a few other places (Berkeley 3-mo, Seattle, 3-mo, London 6-mo).
 I enjoy
+- Goofing off w/ my partner Maya and pupper Pepper
 - bowling (I go once a week)
 - finding excellent ramen (Mensho in SF, Tsujita in Santa Monica, and Taishoken in San Mateo are some faves in the US)
 - Bubble tea - I like tea flavors (Oolong, black tea, hong kong style, and sometimes jasmine).
