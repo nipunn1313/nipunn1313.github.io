@@ -38,27 +38,27 @@ I've been trying to make contributions (small or large) to a variety of open sou
 just to see how things are done (and because it's satisfying).
 
 I maintain / am core contributor to:
-[mypy-protobuf](https://github.com/dropbox/mypy-protobuf) - Generate mypy stub files for protobufs
-[pb-jelly](https://github.com/dropbox/pb-jelly) - Proto code generation framework for rust
-[pytest-flakefinder](https://github.com/dropbox/pytest-flakefinder)
+- [mypy-protobuf](https://github.com/dropbox/mypy-protobuf) - Generate mypy stub files for protobufs
+- [pb-jelly](https://github.com/dropbox/pb-jelly) - Proto code generation framework for rust
+- [pytest-flakefinder](https://github.com/dropbox/pytest-flakefinder)
 
 I've contributed (small or big) to:
-[black](https://github.com/psf/black)
-[cargo-vendor](https://github.com/alexcrichton/cargo-vendor)
-[cargo](https://github.com/rust-lang/cargo)
-[cc-rs](https://github.com/alexcrichton/cc-rs)
-[crates.io](https://github.com/rust-lang/crates.io)
-[futures-rs](https://github.com/rust-lang/futures-rs)
-[git](https://git-scm.com/)
-[ispc](https://github.com/ispc/ispc)
-[mypy-primer](https://github.com/hauntsaninja/mypy_primer)
-[mypy](https://github.com/python/mypy)
-[parity-ethereum](https://github.com/openethereum/parity-ethereum)
-[pip](https://github.com/pypa/pip)
-[protobuf](https://github.com/protocolbuffers/protobuf)
-[pytest](https://github.com/pytest-dev/pytest)
-[rust-clippy](https://github.com/rust-lang/rust-clippy)
-[rust-smallvec](https://github.com/servo/rust-smallvec)
-[rustfmt](https://github.com/rust-lang/rustfmt)
-[typeshed](https://github.com/python/typeshed)
-[urllib3](https://github.com/urllib3/urllib3)
+- [black](https://github.com/psf/black)
+- [cargo-vendor](https://github.com/alexcrichton/cargo-vendor)
+- [cargo](https://github.com/rust-lang/cargo)
+- [cc-rs](https://github.com/alexcrichton/cc-rs)
+- [crates.io](https://github.com/rust-lang/crates.io)
+- [futures-rs](https://github.com/rust-lang/futures-rs)
+- [git](https://git-scm.com/)
+- [ispc](https://github.com/ispc/ispc)
+- [mypy-primer](https://github.com/hauntsaninja/mypy_primer)
+- [mypy](https://github.com/python/mypy)
+- [parity-ethereum](https://github.com/openethereum/parity-ethereum)
+- [pip](https://github.com/pypa/pip)
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+- [pytest](https://github.com/pytest-dev/pytest)
+- [rust-clippy](https://github.com/rust-lang/rust-clippy)
+- [rust-smallvec](https://github.com/servo/rust-smallvec)
+- [rustfmt](https://github.com/rust-lang/rustfmt)
+- [typeshed](https://github.com/python/typeshed)
+- [urllib3](https://github.com/urllib3/urllib3)
