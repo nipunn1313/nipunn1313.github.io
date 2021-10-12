@@ -7,8 +7,8 @@ I got my BS and MS in Electrical and Computer Engineering at Carnegie Mellon Uni
 Pittsburgh (2008 - 2013). I moved to San Francisco in 2013 for work and have enjoyed it
 ever since. I've lived in short stints in a few other places (Berkeley 3-mo, Seattle, 3-mo, London 6-mo).
 I enjoy
-- Goofing off w/ my partner Maya and pupper Pepper
-- bowling (I go once a week)
+- Goofing off w/ my pupper Pepper
+- bowling (I go once a week. Trying to raise my average)
 - finding excellent ramen (Mensho in SF, Tsujita in Santa Monica, and Taishoken in San Mateo are some faves in the US)
 - Bubble tea - I like tea flavors (Oolong, black tea, hong kong style, and sometimes jasmine).
 - Hot Tea
@@ -29,7 +29,7 @@ SF and Seattle, and kicked off a new team as the technical lead, where I'm espec
 proud of how we worked through this whole COVID year transition. Left in April 2021
 and have nothing but appreciation for my time there. Met a lot of lifelong friends along the way.
 
-Before that, I interned at Talaria (a small startup building a PHP JIT compiler), Microsoft (on anti-malware),
+Before that, I interned at Talaria (a small startup building a sweet sweet PHP JIT compiler), Microsoft (on anti-malware),
 and MIT Lincoln Labs (working in weather sensing group).
 
 # Open Source Projects
@@ -53,6 +53,7 @@ I've contributed (small or big) to:
 - [ispc](https://github.com/ispc/ispc)
 - [mypy-primer](https://github.com/hauntsaninja/mypy_primer)
 - [mypy](https://github.com/python/mypy)
+- [nom](https://github.com/Geal/nom)
 - [parity-ethereum](https://github.com/openethereum/parity-ethereum)
 - [pip](https://github.com/pypa/pip)
 - [protobuf](https://github.com/protocolbuffers/protobuf)
