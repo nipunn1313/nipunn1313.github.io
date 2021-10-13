@@ -28,6 +28,8 @@ improving developer environment, continuous integration, and repository structur
 SF and Seattle, and kicked off a new team as the technical lead, where I'm especially
 proud of how we worked through this whole COVID year transition. Left in April 2021
 and have nothing but appreciation for my time there. Met a lot of lifelong friends along the way.
+I like to think I've become a good engineer, leader, and the kind of friend/human others want on their team, acknowledging
+of course that all three of those things are lifelong journeys.
 
 Before that, I interned at Talaria (a small startup building a sweet sweet PHP JIT compiler), Microsoft (on anti-malware),
 and MIT Lincoln Labs (working in weather sensing group).
