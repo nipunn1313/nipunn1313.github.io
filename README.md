@@ -1,11 +1,11 @@
 # About Me
 
-I live in San Francisco. I grew up in the Boston area. My
-favorite ice cream place in the region is [Bedford Farms](https://www.bedfordfarmsicecream.com/).
-If you disagree, you're entitled to your opinion, and also that opinion is wrong.
+I live in San Francisco. I grew up in the Boston area. 
 I got my BS and MS in Electrical and Computer Engineering at Carnegie Mellon University in
 Pittsburgh (2008 - 2013). I moved to San Francisco in 2013 for work and have enjoyed it
 ever since. I've lived in short stints in a few other places (Berkeley 3-mo, Seattle, 3-mo, London 6-mo).
+My favorite ice cream place is [Bedford Farms](https://www.bedfordfarmsicecream.com/).
+If you disagree, you're entitled to your opinion, and also that opinion is wrong.
 I enjoy
 - Goofing off w/ my pupper Pepper
 - bowling (I go once a week. Trying to raise my average)
@@ -58,6 +58,7 @@ I've contributed (small or big) to:
 - [nom](https://github.com/Geal/nom)
 - [parity-ethereum](https://github.com/openethereum/parity-ethereum)
 - [pip](https://github.com/pypa/pip)
+- [procps](https://gitlab.com/procps-ng/procps)
 - [protobuf](https://github.com/protocolbuffers/protobuf)
 - [pytest](https://github.com/pytest-dev/pytest)
 - [rust-clippy](https://github.com/rust-lang/rust-clippy)
