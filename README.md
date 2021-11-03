@@ -22,13 +22,13 @@ I enjoy
 
 Nowadays, I work on open source software. I try to do what calls to me.
 
-I worked for 8 years at Dropbox as a software engineer on just about everything.
+I worked for 8 years at Dropbox (2013-2021) as a software engineer on just about everything.
 I'm proud of my work developing a new [desktop client sync engine](https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine),
 improving developer environment, continuous integration, and repository structure. I helped extend a team between
 SF and Seattle, and kicked off a new team as the technical lead, where I'm especially
 proud of how we worked through this whole COVID year transition. Left in April 2021
 and have nothing but appreciation for my time there. Met a lot of lifelong friends along the way.
-I like to think I've become a good engineer, leader, and the kind of friend/human others want on their team, acknowledging
+I like to think I've become a great engineer, leader, and the kind of friend/human others want on their team, acknowledging
 of course that all three of those things are lifelong journeys.
 
 Before that, I interned at Talaria (a small startup building a sweet sweet PHP JIT compiler), Microsoft (on anti-malware),
@@ -36,8 +36,9 @@ and MIT Lincoln Labs (working in weather sensing group).
 
 # Open Source Projects
 
-I've been trying to make contributions (small or large) to a variety of open source projects
-just to see how things are done (and because it's satisfying).
+I've been trying to make contributions (small or large) to a variety of open source projects.
+I've learned how things are done in many projects, made in impact in many places, and
+it's been fun and satisfying.
 
 I maintain / am core contributor to:
 - [mypy-protobuf](https://github.com/dropbox/mypy-protobuf) - Generate mypy stub files for protobufs
