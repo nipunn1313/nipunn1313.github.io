@@ -4,19 +4,19 @@ I live in San Francisco. I grew up in the Boston area.
 I got my BS and MS in Electrical and Computer Engineering at Carnegie Mellon University in
 Pittsburgh (2008 - 2013). I moved to San Francisco in 2013 for work and have enjoyed it
 ever since. I've lived in short stints in a few other places (Berkeley 3-mo, Seattle, 3-mo, London 6-mo).
-My favorite ice cream place is [Bedford Farms](https://www.bedfordfarmsicecream.com/).
-If you disagree, you're entitled to your opinion, and also that opinion is wrong.
 I enjoy
-- Goofing off w/ my pupper Pepper
+- Spending time with my pupper Pepper
 - bowling (I go once a week. Trying to raise my average)
 - finding excellent ramen (Mensho in SF, Tsujita in Santa Monica, and Taishoken in San Mateo are some faves in the US)
-- Bubble tea - I like tea flavors (Oolong, black tea, hong kong style, and sometimes jasmine).
-- Hot Tea
+- Tea - hot tea and bubble tea. I like tea flavors (Oolong, black tea, hong kong style, and sometimes jasmine). Make it myself at home.
 - [SSBM](https://en.wikipedia.org/wiki/Super_Smash_Bros._Melee) - best game ever made. Now with [rollback netcode](https://slippi.gg/)
-- Trying out craft beers from local breweries. I have many faves in SF, Oakland, Berkeley, Bend, and Seattle.
+- Trying out craft beers from local breweries. I have many faves in SF, Oakland, Berkeley, Bend, Seattle, and beyond.
 - Ultimate Frisbee (recreationally). I used to play competitively in college ([Mr Yuk](https://www.youtube.com/watch?v=2kZ4Xsb0oew)), and have gotten back into it recreationally.
 - chess.com puzzle battle
-- Writing code - I actually enjoy it. Especially refactoring.
+- Ice Cream. My favorite ice cream place is [Bedford Farms](https://www.bedfordfarmsicecream.com/).
+If you disagree, you're entitled to your opinion, and also that opinion is wrong.
+- Reading and writing code - I really enjoy it. Especially refactoring.
+- Stacking diffs. The fact that https://github.com/github/feedback/discussions/4477 is not solved on github is a travesty.
 
 # Work
 
