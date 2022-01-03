@@ -20,7 +20,11 @@ If you disagree, you're entitled to your opinion, and also that opinion is wrong
 
 # Work
 
-Nowadays, I work on open source software. I try to do what calls to me.
+I'm a software engineer at [Convex](https://convex.dev/). We're making a backend for building
+serverless frontend reactive apps that has an easy to use subscription interface. It's been a
+ton of fun working up and down the stack with a great crew of humans. I've been there since Nov, 2021.
+
+I maintain [mypy-protobuf](https://github.com/dropbox/mypy-protobuf)
 
 I worked for 8 years at Dropbox (2013-2021) as a software engineer on just about everything.
 I'm proud of my work developing a new [desktop client sync engine](https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine),
