@@ -57,6 +57,7 @@ I've contributed (small or big) to:
 - [crates.io](https://github.com/rust-lang/crates.io)
 - [futures-rs](https://github.com/rust-lang/futures-rs)
 - [git](https://git-scm.com/)
+- [Homebrew](https://github.com/Homebrew/brew)
 - [ispc](https://github.com/ispc/ispc)
 - [mypy-primer](https://github.com/hauntsaninja/mypy_primer)
 - [mypy](https://github.com/python/mypy)
