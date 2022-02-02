@@ -23,7 +23,7 @@ If you disagree, you're entitled to your opinion, and also that opinion is wrong
 I'm a software engineer at [Convex](https://convex.dev/). We're making a serverless persistence for building
 frontend reactive apps. Easy subscription interface. No backend management. It's been a
 ton of fun working up and down the stack with a great crew of humans trying to change how we think about servers.
-I've been there since Nov, 2021.
+I've been there since Nov, 2021. Shoot me a line if this sounds interesting. We're hiring.
 
 I maintain [mypy-protobuf](https://github.com/dropbox/mypy-protobuf)
 
