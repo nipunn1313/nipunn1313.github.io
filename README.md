@@ -20,9 +20,10 @@ If you disagree, you're entitled to your opinion, and also that opinion is wrong
 
 # Work
 
-I'm a software engineer at [Convex](https://convex.dev/). We're making a backend for building
-serverless frontend reactive apps that has an easy to use subscription interface. It's been a
-ton of fun working up and down the stack with a great crew of humans. I've been there since Nov, 2021.
+I'm a software engineer at [Convex](https://convex.dev/). We're making a serverless persistence for building
+frontend reactive apps. Easy subscription interface. No backend management. It's been a
+ton of fun working up and down the stack with a great crew of humans trying to change how we think about servers.
+I've been there since Nov, 2021.
 
 I maintain [mypy-protobuf](https://github.com/dropbox/mypy-protobuf)
 
@@ -48,6 +49,7 @@ I maintain / am core contributor to:
 - [mypy-protobuf](https://github.com/dropbox/mypy-protobuf) - Generate mypy stub files for protobufs
 - [pb-jelly](https://github.com/dropbox/pb-jelly) - Proto code generation framework for rust
 - [pytest-flakefinder](https://github.com/dropbox/pytest-flakefinder)
+- [git_repo_merges](https://github.com/nipunn1313/git_repo_merges)
 
 I've contributed (small or big) to:
 - [black](https://github.com/psf/black)
@@ -55,14 +57,17 @@ I've contributed (small or big) to:
 - [cargo](https://github.com/rust-lang/cargo)
 - [cc-rs](https://github.com/alexcrichton/cc-rs)
 - [crates.io](https://github.com/rust-lang/crates.io)
+- [dependabot](https://github.com/dependabot/dependabot-core)
 - [futures-rs](https://github.com/rust-lang/futures-rs)
 - [git](https://git-scm.com/)
+- [graphite-cli](https://github.com/screenplaydev/graphite-cli)
 - [Homebrew](https://github.com/Homebrew/brew)
 - [ispc](https://github.com/ispc/ispc)
 - [mypy-primer](https://github.com/hauntsaninja/mypy_primer)
 - [mypy](https://github.com/python/mypy)
 - [nom](https://github.com/Geal/nom)
 - [parity-ethereum](https://github.com/openethereum/parity-ethereum)
+- [peps](https://github.com/python/peps)
 - [pip](https://github.com/pypa/pip)
 - [procps](https://gitlab.com/procps-ng/procps)
 - [protobuf](https://github.com/protocolbuffers/protobuf)
@@ -72,3 +77,4 @@ I've contributed (small or big) to:
 - [rustfmt](https://github.com/rust-lang/rustfmt)
 - [typeshed](https://github.com/python/typeshed)
 - [urllib3](https://github.com/urllib3/urllib3)
+- [zulip](https://github.com/zulip/zulip)
