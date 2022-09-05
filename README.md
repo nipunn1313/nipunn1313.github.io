@@ -1,3 +1,23 @@
+# Work
+
+I'm a software engineer at [Convex](https://convex.dev/). We're making a serverless database abstraction that
+extends out of the backend directly to frontend react apps. Easy subscription interface. No backend management.
+We have to handle a lot of database challenges to make this so seamless for the frontend engineer.
+It's been a ton of fun working up and down the stack with a great crew of humans trying to rethink the need for
+backend engineers at most companies.
+I've been there since Nov, 2021. Shoot me a line if this sounds interesting. We're hiring.
+
+I maintain [mypy-protobuf](https://github.com/dropbox/mypy-protobuf)
+
+I worked for 8 years at Dropbox (2013-2021) as a software engineer on just about everything.
+I'm proud of my work developing a new [desktop client sync engine](https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine),
+improving developer environment, continuous integration, and repository structure. I helped extend a team between
+SF and Seattle, and kicked off a new team as the technical lead, where I'm especially
+proud of how we worked through the COVID year transition. Left in April 2021
+and have nothing but appreciation for my time there. Met a lot of lifelong friends along the way.
+I like to think I've become a great engineer, leader, and the kind of friend/human others want on their team, acknowledging
+of course that all three of those things are lifelong journeys. Before that, I interned at Talaria (startup making a PHP JIT compiler that sold to Google), Microsoft (on anti-malware), and MIT Lincoln Labs (working in weather sensing group).
+
 # About Me
 
 I live in San Francisco. I grew up in the Boston area. 
@@ -17,27 +37,6 @@ I enjoy
 If you disagree, you're entitled to your opinion, and also that opinion is wrong.
 - Reading and writing code - I really enjoy it. Especially refactoring.
 - Stacking diffs. The fact that https://github.com/github/feedback/discussions/4477 is not solved on github is a travesty.
-
-# Work
-
-I'm a software engineer at [Convex](https://convex.dev/). We're making a serverless persistence for building
-frontend reactive apps. Easy subscription interface. No backend management. It's been a
-ton of fun working up and down the stack with a great crew of humans trying to change how we think about servers.
-I've been there since Nov, 2021. Shoot me a line if this sounds interesting. We're hiring.
-
-I maintain [mypy-protobuf](https://github.com/dropbox/mypy-protobuf)
-
-I worked for 8 years at Dropbox (2013-2021) as a software engineer on just about everything.
-I'm proud of my work developing a new [desktop client sync engine](https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine),
-improving developer environment, continuous integration, and repository structure. I helped extend a team between
-SF and Seattle, and kicked off a new team as the technical lead, where I'm especially
-proud of how we worked through this whole COVID year transition. Left in April 2021
-and have nothing but appreciation for my time there. Met a lot of lifelong friends along the way.
-I like to think I've become a great engineer, leader, and the kind of friend/human others want on their team, acknowledging
-of course that all three of those things are lifelong journeys.
-
-Before that, I interned at Talaria (a small startup building a sweet sweet PHP JIT compiler), Microsoft (on anti-malware),
-and MIT Lincoln Labs (working in weather sensing group).
 
 # Open Source Projects
 
