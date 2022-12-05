@@ -1,11 +1,16 @@
 # Work
 
-I'm a software engineer at [Convex](https://convex.dev/). We're making a serverless database abstraction that
-extends out of the backend directly to frontend react apps. Easy subscription interface. No backend management.
-We have to handle a lot of database challenges to make this so seamless for the frontend engineer.
-It's been a ton of fun working up and down the stack with a great crew of humans trying to rethink the need for
-backend engineers at most companies.
-I've been there since Nov, 2021. Shoot me a line if this sounds interesting. We're hiring.
+I'm a software engineer at [Convex](https://convex.dev/). We're making a serverless backend abstraction for web
+developers that focuses on your data. Easy subscription interface. Reactive queries. No backend management. We
+empower the frontend and product engineer to get more done on their own without needing to pull in server and
+data management expertise. We have to handle a lot of database challenges to make this seamless for the frontend engineer. For
+example, we run javascript queries deterministically in a v8 runtime embedded into our rust backend, tracking readsets in
+order to intersect with subsequent mutations to awaken and update reactively.
+
+It's been a ton of fun working up and down the stack with a great crew of humans trying to rethink and replace the need for
+backend engineers at most companies. I really do believe that the set of arcane skills required to manage data models, databases,
+and backend services won't be required at most companies. I've been there since Nov, 2021 and it really has been awesome.
+Shoot me a line if this sounds interesting. We're hiring.
 
 I maintain [mypy-protobuf](https://github.com/dropbox/mypy-protobuf)
 
